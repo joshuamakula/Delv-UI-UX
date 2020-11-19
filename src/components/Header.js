@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import '../../bootstrap/css/bootstrap.css';
+import '../bootstrap/css/bootstrap.css';
 import './style.css';
 import delv1 from './delv1.svg'
 
