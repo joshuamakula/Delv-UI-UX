@@ -35,11 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
   },
   "devDependencies": {
     "@types/bootstrap": "^5.0.0"
-=======
->>>>>>> 4eb0dfdcecc9afd6238a47e5b4d67cc71cbbdc11
   }
 }
