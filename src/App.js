@@ -1,10 +1,10 @@
 // import logo from './delv1.svg';
 import './App.css';
-import Home from './containers/home';
+import Home from './containers';
 import {BrowserRouter as Router,Switch,Route} from 'react-router-dom'
-import LogIn from './containers/login';
-import Footer from './components/footer';
-import Header from './components/header';
+import LogIn from './containers';
+import Footer from './components';
+import Header from './components';
 
 
 function App() {
